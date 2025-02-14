@@ -7,7 +7,7 @@ function ServicesSection() {
       icon: <Code size={32} className="text-blue-600 dark:text-blue-400" />,
       title: 'Web Geliştirme',
       description:
-        'React, Next.js ve Node.js kullanarak modern, hızlı ve ölçeklenebilir web uygulamaları oluştururum.'
+        'React, Next.js ve Node.js kullanarak modern, hızlı ve ölçeklenebilir web uygulamaları oluştururum. '
     },
     {
       icon: <Monitor size={32} className="text-purple-600 dark:text-purple-400" />,
