@@ -1,0 +1,36 @@
+{
+  "forms": [
+    {
+      "name": "name",
+      "email": "email",
+      "tel": "tel",
+      "konu": "konu",
+      "message": "message",
+      "id": "b113"
+    },
+    {
+      "id": "419d",
+      "name": "Mehmet Aydin",
+      "email": "eminaydinyazilim@gmail.com",
+      "phone": "05538827646",
+      "subject": "Proje Teklifi",
+      "message": "efwaecasvsads"
+    },
+    {
+      "id": "f908",
+      "name": "EMİN AYDİN",
+      "email": "aydinzekeriya56@gmail.com",
+      "phone": "05538827646",
+      "subject": "Genel Soru",
+      "message": "dfg fcghc jftyj fyjd ttdh hu cfdthr fxhtc"
+    },
+    {
+      "id": "b311",
+      "name": "emin",
+      "email": "emnaydn0@rrtfy",
+      "phone": "05538827646",
+      "subject": "Danışmanlık",
+      "message": "rhtcfjycfjyxh"
+    }
+  ]
+}
